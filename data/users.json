@@ -3,11 +3,11 @@
         "title": "Mr",
         "firstName": "Frank",
         "lastName": "Murphy",
-        "email": "frank.murphy@rustvale.com",
-        "role": "User",
-        "password": "sue123",
+        "email": "frankmurphy@rustvale.com",
+        "role": "Admin",
+        "password": "123321",
         "id": 1,
-        "dateCreated": "2021-04-08T05:33:05.184Z",
-        "dateUpdated": "2021-04-08T05:33:05.184Z"
+        "dateCreated": "2021-06-21T13:03:43.296Z",
+        "dateUpdated": "2021-06-21T13:03:43.296Z"
     }
 ]
